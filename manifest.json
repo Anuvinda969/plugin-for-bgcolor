@@ -1,0 +1,6 @@
+{
+    "name": "Extension to change the background color",
+    "description": "Building my first extension",
+    "version": "1.0",
+    "manifest_version": 3
+}
